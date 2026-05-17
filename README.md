@@ -14,6 +14,8 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
 
+  <img src="https://cdn.simpleicons.org/unity/white" width="20">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48"/>
 </p>
 
